@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "pQa57f+8Ogtmdf7FTkGeITIiXM/E8zHQnrKCQOvIcSAvx25F9R97DNJxkf+HUwDGuiVVdKkA4JeQv65dKqMWZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brady\\source\\minimalWeb\\minimalWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brady\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\brady\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\brady\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "C:\\Users\\brady\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\brady\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\brady\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512",
+    "C:\\Users\\brady\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.0-preview.6.21323.11\\microsoft.netcore.app.runtime.win-x64.6.0.0-preview.6.21323.11.nupkg.sha512",
+    "C:\\Users\\brady\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.0-preview.6.21322.4\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.0-preview.6.21322.4.nupkg.sha512",
+    "C:\\Users\\brady\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.0-preview.6.21322.10\\microsoft.aspnetcore.app.runtime.win-x64.6.0.0-preview.6.21322.10.nupkg.sha512"
+  ],
+  "logs": []
+}
