@@ -1,3 +1,4 @@
+C:\Users\brady\source\minimalWeb\bin\Release\net6.0\NuGet.config
 C:\Users\brady\source\minimalWeb\bin\Release\net6.0\appsettings.Development.json
 C:\Users\brady\source\minimalWeb\bin\Release\net6.0\appsettings.json
 C:\Users\brady\source\minimalWeb\bin\Release\net6.0\minimalWeb.exe
@@ -24,4 +25,3 @@ C:\Users\brady\source\minimalWeb\obj\Release\net6.0\minimalWeb.dll
 C:\Users\brady\source\minimalWeb\obj\Release\net6.0\ref\minimalWeb.dll
 C:\Users\brady\source\minimalWeb\obj\Release\net6.0\minimalWeb.pdb
 C:\Users\brady\source\minimalWeb\obj\Release\net6.0\minimalWeb.genruntimeconfig.cache
-C:\Users\brady\source\minimalWeb\bin\Release\net6.0\NuGet.config

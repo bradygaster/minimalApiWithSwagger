@@ -356,6 +356,7 @@ C:\Users\brady\source\minimalWeb\bin\Release\net6.0\win-x64\dbgshim.dll
 C:\Users\brady\source\minimalWeb\bin\Release\net6.0\win-x64\hostfxr.dll
 C:\Users\brady\source\minimalWeb\bin\Release\net6.0\win-x64\hostpolicy.dll
 C:\Users\brady\source\minimalWeb\bin\Release\net6.0\win-x64\mscordaccore.dll
+C:\Users\brady\source\minimalWeb\bin\Release\net6.0\win-x64\mscordaccore_amd64_amd64_6.0.21.32311.dll
 C:\Users\brady\source\minimalWeb\bin\Release\net6.0\win-x64\mscordbi.dll
 C:\Users\brady\source\minimalWeb\bin\Release\net6.0\win-x64\mscorrc.dll
 C:\Users\brady\source\minimalWeb\bin\Release\net6.0\win-x64\ucrtbase.dll
@@ -374,4 +375,3 @@ C:\Users\brady\source\minimalWeb\obj\Release\net6.0\win-x64\minimalWeb.dll
 C:\Users\brady\source\minimalWeb\obj\Release\net6.0\win-x64\ref\minimalWeb.dll
 C:\Users\brady\source\minimalWeb\obj\Release\net6.0\win-x64\minimalWeb.pdb
 C:\Users\brady\source\minimalWeb\obj\Release\net6.0\win-x64\minimalWeb.genruntimeconfig.cache
-C:\Users\brady\source\minimalWeb\bin\Release\net6.0\win-x64\mscordaccore_amd64_amd64_6.0.21.32311.dll

@@ -24,4 +24,3 @@ C:\Users\brady\source\minimalWeb\obj\Debug\net6.0\minimalWeb.dll
 C:\Users\brady\source\minimalWeb\obj\Debug\net6.0\ref\minimalWeb.dll
 C:\Users\brady\source\minimalWeb\obj\Debug\net6.0\minimalWeb.pdb
 C:\Users\brady\source\minimalWeb\obj\Debug\net6.0\minimalWeb.genruntimeconfig.cache
-C:\Users\brady\source\minimalWeb\obj\Debug\net6.0\minimalWeb.csproj.AssemblyReference.cache

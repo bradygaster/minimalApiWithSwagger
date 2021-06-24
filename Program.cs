@@ -47,7 +47,7 @@ app.MapPost("/create", (TheApiModel model, [FromServices] IMemoryCache memcache)
     var existing = memcache.Get<List<TheApiModel>>(MemcacheKey);
     existing.Add(model);
     memcache.Set<List<TheApiModel>>(MemcacheKey, existing);
-    return new CreatedResult("/", string.Format(Greeting, model.Target));
+    return string.Format(Greeting, model.Target);
 });
 
 app.MapGet("/version", () => typeof(Microsoft.AspNetCore.Http.RequestDelegateFactory)
