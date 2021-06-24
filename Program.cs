@@ -34,15 +34,15 @@ app.UseSwagger(setup => setup.SerializeAsV2 = true);
 
 app.Services.GetService<IMemoryCache>().Set<List<TheApiModel>>(MemcacheKey, new List<TheApiModel>());
 
-app.MapGet("/", ([FromServices] IMemoryCache memcache) =>
+app.MapGet("/", (IMemoryCache memcache) =>
     memcache.Get<List<TheApiModel>>(MemcacheKey)
 );
 
-app.MapGet("/{target}", (string target, [FromServices] IMemoryCache memcache) =>
+app.MapGet("/{target}", (string target,IMemoryCache memcache) =>
     memcache.Get<List<TheApiModel>>(MemcacheKey).FirstOrDefault(_ => _.Target == target)
 );
 
-app.MapPost("/create", (TheApiModel model, [FromServices] IMemoryCache memcache) =>
+app.MapPost("/create", (TheApiModel model, IMemoryCache memcache) =>
 {
     var existing = memcache.Get<List<TheApiModel>>(MemcacheKey);
     existing.Add(model);
